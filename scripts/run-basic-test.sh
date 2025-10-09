@@ -140,6 +140,7 @@ dnsperf -s $DNS_SERVER \
         -c $CONCURRENT \
         -t $TIMEOUT \
         $EXTRA_OPTIONS \
+	| grep -v "Query timed out" \
         | tee $RESULT_FILE
 
 # Stop dig benchmark if running
