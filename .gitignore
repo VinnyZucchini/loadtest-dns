@@ -1,4 +1,5 @@
 # DNS Load Testing - Git Ignore File
+analyzer-results/*
 
 # Test Results and Output Directories
 dnsperf-results/

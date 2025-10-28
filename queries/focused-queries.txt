@@ -1,0 +1,3 @@
+qaverifytest.cc.cdn2.mlycdn.com A
+www.qaverifytest.cc.cdn2.mlycdn.com A
+cdntest.qaverifytest.cc.cdn2.mlycdn.com A
